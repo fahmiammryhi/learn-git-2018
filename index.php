@@ -1,11 +1,3 @@
 <?php
 echo "<h3> Hello Bayu </h3>";
 ?>
-
-cd /Applications/XAMPP/xamppfiles/htdocs/learn-github
-git init
-/Applications/XAMPP/xamppfiles/htdocs/learn-github/.git/
-git remote add origin https://github.com/bayupaoh/learn-git-2018.git
-git add-A
-git commit-m "menambahkan file index.php"
-git push -u origin master
